@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JorgeRochaA
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me jorgerocha.ml

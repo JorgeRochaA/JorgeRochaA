@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Rocha</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
+<img align="center" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorgerochaa&label=Profile%20views&color=0e75b6&style=flat" alt="jorgerochaa" /> </p>
 

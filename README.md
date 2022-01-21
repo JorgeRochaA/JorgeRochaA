@@ -32,4 +32,4 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jorgerochaa&show_icons=true&locale=en" alt="jorgerochaa" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgerochaa&" alt="jorgerochaa" /></p>
+<p><img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgerochaa&" alt="jorgerochaa" /></p>

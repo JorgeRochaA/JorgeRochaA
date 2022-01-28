@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web development**
 
-- 👨‍💻 All of my projects are available at [jorgerocha.ml](jorgerocha.ml)
+- 👨‍💻 All of my projects are available at [jorgerocha.ml](https://www.jorgerocha.ml/)
 
 - 💬 Ask me about **Vue JS**
 

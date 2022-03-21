@@ -5,13 +5,13 @@
 
 <img align="right" width="47%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-- 🔭 I’m currently working on a  <a href="https://www.weather.ga/" target="blank">Weather App <img src="https://i.ibb.co/Sn5gpdC/favicon.png" alt="icon" width="20" height="20"/></a></p>
+- 🔭 I’m currently working on a  <a href="https://www.weather.ga/" target="_blank">Weather App <img src="https://i.ibb.co/Sn5gpdC/favicon.png" alt="icon" width="20" height="20"/></a></p>
 
--  <p>🌱 I’m currently learning  <a href="https://angular.io/" target="blank">Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/></a></p>
+-  <p>🌱 I’m currently learning  <a href="https://angular.io/" target="_blank">Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/></a></p>
 
 - 👯 I’m looking to collaborate on **Web development**
 
-- 👨‍💻 All of my projects are available at  <a href="https://www.jorgerocha.ml/" target="blank">jorgerocha.ml <img src="https://www.jorgerocha.ml/img/logo.53c39b2d.png" alt="icon" width="20" height="25"/></a></p>
+- 👨‍💻 All of my projects are available at  <a href="https://www.jorgerocha.ml/" target="_blank">jorgerocha.ml <img src="https://www.jorgerocha.ml/img/logo.53c39b2d.png" alt="icon" width="20" height="25"/></a></p>
 
 - 💬 Ask me about **Web Development**
 

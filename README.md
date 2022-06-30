@@ -5,7 +5,7 @@
 
 <img align="right" width="47%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-- 🔭 I’m currently working on a  <a href="https://www.ladingpage.tk/" target="_blank">Landing Page <img src="https://i.ibb.co/PcrmNfb/rocket.png" alt="icon" width="20" height="20"/></a></p>
+- 🔭 I’m currently working on a  <a href="https://www.inwood.tk/" target="_blank">Ecommerce <img src="https://i.ibb.co/t4SzCCM/logo.png" alt="icon" width="20" height="20"/></a></p>
 
 -  <p>🌱 I’m currently learning  <a href="https://angular.io/" target="_blank">Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/></a></p>
 

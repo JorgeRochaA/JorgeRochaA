@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a  <a href="https://www.inwood.tk/" target="_blank">Ecommerce <img src="https://i.ibb.co/t4SzCCM/logo.png" alt="icon" width="20" height="20"/></a></p>
 
--  <p>🌱 I’m currently learning  <a href="https://angular.io/" target="_blank">Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/></a></p>
+-  <p>🌱 I’m currently learning  <a href="[https://angular.io/](https://es.reactjs.org/)" target="_blank">React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" alt="react" width="20" height="20"/></a></p>
 
 - 👯 I’m looking to collaborate on **Web development**
 

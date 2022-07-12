@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorgerochaa&label=Profile%20views&color=0e75b6&style=flat" alt="jorgerochaa" /> </p>
 
-<img align="right" width="47%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<img align="right" width="67%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 - 🔭 I’m currently working on a  <a href="https://www.inwood.tk/" target="_blank">Ecommerce <img src="https://i.ibb.co/t4SzCCM/logo.png" alt="icon" width="20" height="20"/></a></p>
 

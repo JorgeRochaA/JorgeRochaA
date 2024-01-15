@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Todo List  <a href="https://todo-list-app-cr.netlify.app/landing-page" target="_blank">Todo List App <img src="https://i.ibb.co/x5Bhr9k/to-do.png" alt="icon" width="20" height="20"/></a></p>
 
--  <p>🌱 I’m currently learning  <a href="[https://angular.io/](https://es.reactjs.org/)" target="_blank">React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" alt="react" width="20" height="20"/></a></p>
+-  <p>🌱 I’m currently learning  <a href="https://reactnative.dev/" target="_blank">React Native <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" alt="react" width="20" height="20"/></a></p>
 
 - 👯 I’m looking to collaborate on **Web development**
 

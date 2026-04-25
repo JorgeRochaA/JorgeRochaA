@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web development**
 
-- 👨‍💻 All of my projects are available at  <a href="https://www.jorgerocha.site/" target="_blank">jorgerocha.site <img src="https://jorgerocha.site/assets/logo-h4Uswr3u.png" alt="logo" width="20" height="25"/></a></p>
+- 👨‍💻 All of my projects are available at  <a href="https://www.jorgerocha.blog/" target="_blank">jorgerocha.site <img src="https://jorgerocha.blog/assets/logo-h4Uswr3u.png" alt="logo" width="20" height="25"/></a></p>
 
 - 💬 Ask me about **Web Development**
 
